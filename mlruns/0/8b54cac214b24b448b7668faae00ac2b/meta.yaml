@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8b54cac214b24b448b7668faae00ac2b/artifacts
+end_time: 1722831352404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b54cac214b24b448b7668faae00ac2b
+run_name: able-flea-580
+run_uuid: 8b54cac214b24b448b7668faae00ac2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722831096663
+status: 3
+tags: []
+user_id: ptiernan

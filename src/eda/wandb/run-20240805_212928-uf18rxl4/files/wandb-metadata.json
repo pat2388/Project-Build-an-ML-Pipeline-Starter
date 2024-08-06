@@ -1,0 +1,32 @@
+{
+    "os": "Linux-4.4.0-19041-Microsoft-x86_64-with-glibc2.31",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-08-06T01:29:29.376558",
+    "startedAt": "2024-08-06T01:29:28.977304",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "src/eda/eda.ipynb",
+    "codePathLocal": null,
+    "root": "/mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/pat2388/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "0936351046db1e8e7587aa16f516b26a9374b3da"
+    },
+    "email": null,
+    "host": "DESKTOP-13VBJEI",
+    "username": "ptiernan",
+    "executable": "/home/ptiernan/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "disk": {
+        "/": {
+            "total": 930.8828086853027,
+            "used": 839.7997665405273
+        }
+    },
+    "memory": {
+        "total": 31.950122833251953
+    }
+}
