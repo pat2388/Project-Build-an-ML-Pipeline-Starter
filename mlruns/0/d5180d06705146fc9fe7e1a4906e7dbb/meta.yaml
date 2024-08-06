@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d5180d06705146fc9fe7e1a4906e7dbb/artifacts
+end_time: 1722911666828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5180d06705146fc9fe7e1a4906e7dbb
+run_name: trusting-cub-322
+run_uuid: d5180d06705146fc9fe7e1a4906e7dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722911582383
+status: 4
+tags: []
+user_id: ptiernan
