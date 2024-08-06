@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/be1263dfd74848919977d2d054edfd59/artifacts
+end_time: 1722912035578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be1263dfd74848919977d2d054edfd59
+run_name: clean-gnat-659
+run_uuid: be1263dfd74848919977d2d054edfd59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722912020888
+status: 3
+tags: []
+user_id: ptiernan
