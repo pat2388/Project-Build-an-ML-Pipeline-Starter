@@ -1,0 +1,45 @@
+{
+    "os": "Linux-4.4.0-19041-Microsoft-x86_64-with-glibc2.31",
+    "python": "3.10.0",
+    "heartbeatAt": "2024-08-06T23:15:22.709480",
+    "startedAt": "2024-08-06T23:15:22.206241",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "clean_sample.csv:latest",
+        "--ref",
+        "clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/ptiernan/miniconda3/envs/mlflow-b2212862da34c3290d2558a0a1cd589ddc31ef3b/bin/pytest",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/pat2388/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "13620a2780b276aed63e6a4b1d327b338659f0cb"
+    },
+    "email": null,
+    "root": "/mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-13VBJEI",
+    "username": "ptiernan",
+    "executable": "/home/ptiernan/miniconda3/envs/mlflow-b2212862da34c3290d2558a0a1cd589ddc31ef3b/bin/python3.10",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "disk": {
+        "/": {
+            "total": 930.8828086853027,
+            "used": 841.5367393493652
+        }
+    },
+    "memory": {
+        "total": 31.950122833251953
+    }
+}

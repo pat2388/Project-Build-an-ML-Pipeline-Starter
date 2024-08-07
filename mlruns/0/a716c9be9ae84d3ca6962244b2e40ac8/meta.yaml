@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a716c9be9ae84d3ca6962244b2e40ac8/artifacts
+end_time: 1722981112940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a716c9be9ae84d3ca6962244b2e40ac8
+run_name: carefree-shark-502
+run_uuid: a716c9be9ae84d3ca6962244b2e40ac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722981110336
+status: 4
+tags: []
+user_id: ptiernan

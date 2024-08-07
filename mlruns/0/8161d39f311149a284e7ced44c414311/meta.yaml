@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8161d39f311149a284e7ced44c414311/artifacts
+end_time: 1722916557279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8161d39f311149a284e7ced44c414311
+run_name: gifted-yak-654
+run_uuid: 8161d39f311149a284e7ced44c414311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722916402234
+status: 4
+tags: []
+user_id: ptiernan

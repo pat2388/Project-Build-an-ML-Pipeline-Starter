@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9c4cc3ba46854e3b98a90a39370fd359/artifacts
+end_time: 1722916934283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c4cc3ba46854e3b98a90a39370fd359
+run_name: casual-stoat-814
+run_uuid: 9c4cc3ba46854e3b98a90a39370fd359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722916839068
+status: 4
+tags: []
+user_id: ptiernan

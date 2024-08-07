@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b707b0df8ef847bebabd72f3164bc1d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b707b0df8ef847bebabd72f3164bc1d0
+run_name: gregarious-colt-94
+run_uuid: b707b0df8ef847bebabd72f3164bc1d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722916507353
+status: 1
+tags: []
+user_id: ptiernan

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c7c459732e1849609a87fba27a3a510a/artifacts
+end_time: 1722985069848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7c459732e1849609a87fba27a3a510a
+run_name: flawless-loon-256
+run_uuid: c7c459732e1849609a87fba27a3a510a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722984913414
+status: 4
+tags: []
+user_id: ptiernan

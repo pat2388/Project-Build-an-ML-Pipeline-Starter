@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/293e9dc116f94c2da44fc3d361d07d26/artifacts
+end_time: 1722915102136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 293e9dc116f94c2da44fc3d361d07d26
+run_name: upset-grub-296
+run_uuid: 293e9dc116f94c2da44fc3d361d07d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722915048151
+status: 4
+tags: []
+user_id: ptiernan

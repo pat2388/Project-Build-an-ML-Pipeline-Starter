@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/de775e2769444f7eb5364dca638f093f/artifacts
+end_time: 1722983340895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de775e2769444f7eb5364dca638f093f
+run_name: luminous-quail-596
+run_uuid: de775e2769444f7eb5364dca638f093f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722983108484
+status: 4
+tags: []
+user_id: ptiernan

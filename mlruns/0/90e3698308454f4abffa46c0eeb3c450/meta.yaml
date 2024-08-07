@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/90e3698308454f4abffa46c0eeb3c450/artifacts
+end_time: 1722982678322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90e3698308454f4abffa46c0eeb3c450
+run_name: rebellious-fish-520
+run_uuid: 90e3698308454f4abffa46c0eeb3c450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722982675447
+status: 4
+tags: []
+user_id: ptiernan

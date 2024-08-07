@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5f2caad072944b2c91781b9798e5df51/artifacts
+end_time: 1722982960324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f2caad072944b2c91781b9798e5df51
+run_name: whimsical-yak-134
+run_uuid: 5f2caad072944b2c91781b9798e5df51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722982907924
+status: 4
+tags: []
+user_id: ptiernan

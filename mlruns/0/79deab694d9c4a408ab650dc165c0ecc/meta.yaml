@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/79deab694d9c4a408ab650dc165c0ecc/artifacts
+end_time: 1722982678714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79deab694d9c4a408ab650dc165c0ecc
+run_name: efficient-koi-811
+run_uuid: 79deab694d9c4a408ab650dc165c0ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722982669397
+status: 4
+tags: []
+user_id: ptiernan

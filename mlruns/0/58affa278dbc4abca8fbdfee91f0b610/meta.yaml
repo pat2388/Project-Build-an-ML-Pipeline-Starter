@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/58affa278dbc4abca8fbdfee91f0b610/artifacts
+end_time: 1722985774613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58affa278dbc4abca8fbdfee91f0b610
+run_name: magnificent-grub-52
+run_uuid: 58affa278dbc4abca8fbdfee91f0b610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722985623707
+status: 4
+tags: []
+user_id: ptiernan

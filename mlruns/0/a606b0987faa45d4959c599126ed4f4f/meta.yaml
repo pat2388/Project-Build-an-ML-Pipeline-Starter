@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a606b0987faa45d4959c599126ed4f4f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a606b0987faa45d4959c599126ed4f4f
+run_name: bald-moth-965
+run_uuid: a606b0987faa45d4959c599126ed4f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722985290099
+status: 1
+tags: []
+user_id: ptiernan

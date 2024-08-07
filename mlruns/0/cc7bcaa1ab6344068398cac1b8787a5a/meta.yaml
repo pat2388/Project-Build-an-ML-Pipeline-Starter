@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cc7bcaa1ab6344068398cac1b8787a5a/artifacts
+end_time: 1722983340139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc7bcaa1ab6344068398cac1b8787a5a
+run_name: rare-calf-32
+run_uuid: cc7bcaa1ab6344068398cac1b8787a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722983216193
+status: 4
+tags: []
+user_id: ptiernan
