@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/14d8d0bd28304d36bbb59a647c080a26/artifacts
+end_time: 1723333194981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14d8d0bd28304d36bbb59a647c080a26
+run_name: stately-fox-19
+run_uuid: 14d8d0bd28304d36bbb59a647c080a26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723333160920
+status: 4
+tags: []
+user_id: ptiernan
