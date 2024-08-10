@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/46abcacaaf15422593f0e7c21720ee2e/artifacts
+end_time: 1723321680265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46abcacaaf15422593f0e7c21720ee2e
+run_name: worried-turtle-484
+run_uuid: 46abcacaaf15422593f0e7c21720ee2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723321650255
+status: 4
+tags: []
+user_id: ptiernan

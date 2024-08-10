@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e44ba5d4a04b486dbfc3bd5f462c8beb/artifacts
+end_time: 1723256446896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e44ba5d4a04b486dbfc3bd5f462c8beb
+run_name: dashing-wolf-592
+run_uuid: e44ba5d4a04b486dbfc3bd5f462c8beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723256423686
+status: 4
+tags: []
+user_id: ptiernan

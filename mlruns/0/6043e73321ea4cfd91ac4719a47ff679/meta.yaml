@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6043e73321ea4cfd91ac4719a47ff679/artifacts
+end_time: 1723321810295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6043e73321ea4cfd91ac4719a47ff679
+run_name: bouncy-moose-724
+run_uuid: 6043e73321ea4cfd91ac4719a47ff679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723321622911
+status: 4
+tags: []
+user_id: ptiernan

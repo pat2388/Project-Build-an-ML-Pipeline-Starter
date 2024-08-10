@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/be41edc840e84f42a81b22273a291c15/artifacts
+end_time: 1723173667594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be41edc840e84f42a81b22273a291c15
+run_name: amusing-fish-905
+run_uuid: be41edc840e84f42a81b22273a291c15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723173656830
+status: 4
+tags: []
+user_id: ptiernan

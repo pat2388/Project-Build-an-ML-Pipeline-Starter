@@ -37,7 +37,6 @@ def delta_date_feature(dates):
 logging.basicConfig(level=logging.INFO, format="%(asctime)-15s %(message)s")
 logger = logging.getLogger()
 
-
 def go(args):
 
     run = wandb.init(job_type="train_random_forest")
@@ -87,8 +86,11 @@ def go(args):
     logger.info(f"Score: {r_squared}")
     logger.info(f"MAE: {mae}")
 
-    logger.info("Exporting model")
-
+    # replace null values
+    X_val['name'].fillna("Unknown", inplace=True)
+    X_val['last_review'].fillna("1970-01-01", inplace=True)
+    X_val['reviews_per_month'].fillna(0, inplace=True)
+    
     # Save model package in the MLFlow sklearn format
     if os.path.exists("random_forest_dir"):
         shutil.rmtree("random_forest_dir")

@@ -1,0 +1,33 @@
+2024-08-10 16:27:35,507 Minimum price: 10, Maximum price: 350
+2024-08-10 16:27:35,516 Preparing sklearn pipeline
+2024-08-10 16:27:35,516 Fitting
+2024-08-10 16:27:54,326 Scoring
+2024-08-10 16:27:54,481 Score: 0.5340342040659455
+2024-08-10 16:27:54,482 MAE: 33.54348026315789
+2024-08-10 16:27:54,482 The 'last_review' column is NOT a datetime type.
+2024-08-10 16:27:54,482 Exporting model
+Traceback (most recent call last):
+  File "/mnt/c/Users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 320, in <module>
+    go(args)
+  File "/mnt/c/Users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 122, in go
+    signature = mlflow.models.infer_signature(X_val, y_pred)
+  File "/home/ptiernan/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/mlflow/models/signature.py", line 212, in infer_signature
+    inputs = _infer_schema(model_input) if model_input is not None else None
+  File "/home/ptiernan/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/mlflow/types/utils.py", line 135, in _infer_schema
+    [ColSpec(type=_infer_pandas_column(data[col]), name=col) for col in data.columns]
+  File "/home/ptiernan/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/mlflow/types/utils.py", line 135, in <listcomp>
+    [ColSpec(type=_infer_pandas_column(data[col]), name=col) for col in data.columns]
+  File "/home/ptiernan/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/mlflow/types/utils.py", line 293, in _infer_pandas_column
+    raise MlflowException(
+mlflow.exceptions.MlflowException: Unable to map 'object' type to MLflow DataType. object can be mapped iff all values have identical data type which is one of (string, (bytes or byterray),  int, float).
+The 'last_review' column has data type: object
+Column 'name' has 3 missing values.
+Column 'last_review' has 595 missing values.
+Column 'reviews_per_month' has 595 missing values.
+First 5 values in 'last_review' column:
+10302           NaN
+5656     2019-07-01
+13329    2019-06-28
+10196    2014-11-04
+13617    2019-06-30
+Name: last_review, dtype: object

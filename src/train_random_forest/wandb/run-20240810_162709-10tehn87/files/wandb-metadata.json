@@ -1,0 +1,143 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-08-10T20:27:10.347228",
+    "startedAt": "2024-08-10T20:27:09.879282",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/mnt/c/Users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/multirun/2024-08-10/16-27-05/0/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/pat2388/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "23cdd0cd8ced08ac2bd5907e98c34e116050194c"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter",
+    "host": "LAPTOP-C16KOFPA",
+    "username": "ptiernan",
+    "executable": "/home/ptiernan/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2304.0080000000007,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.008,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 6.4953460693359375
+        }
+    },
+    "gpu": "NVIDIA T1200 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA T1200 Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.484703063964844
+    }
+}

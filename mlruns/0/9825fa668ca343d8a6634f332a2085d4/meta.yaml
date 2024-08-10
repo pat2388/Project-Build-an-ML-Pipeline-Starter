@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9825fa668ca343d8a6634f332a2085d4/artifacts
+end_time: 1723321650041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9825fa668ca343d8a6634f332a2085d4
+run_name: treasured-lark-439
+run_uuid: 9825fa668ca343d8a6634f332a2085d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723321626194
+status: 4
+tags: []
+user_id: ptiernan

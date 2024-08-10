@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bb258828e1ac4fdfbc49f7902b805e69/artifacts
+end_time: 1723259291339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb258828e1ac4fdfbc49f7902b805e69
+run_name: placid-doe-113
+run_uuid: bb258828e1ac4fdfbc49f7902b805e69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723259222329
+status: 4
+tags: []
+user_id: ptiernan

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d7135f4801774e609c36e3a3fa54aac7/artifacts
+end_time: 1723319861897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7135f4801774e609c36e3a3fa54aac7
+run_name: rebellious-cow-870
+run_uuid: d7135f4801774e609c36e3a3fa54aac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723259626061
+status: 4
+tags: []
+user_id: ptiernan

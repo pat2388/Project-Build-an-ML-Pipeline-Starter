@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f88ba1e83815493390c260a0bbba2b8c/artifacts
+end_time: 1723173644486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f88ba1e83815493390c260a0bbba2b8c
+run_name: salty-gnat-626
+run_uuid: f88ba1e83815493390c260a0bbba2b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723173634759
+status: 4
+tags: []
+user_id: ptiernan

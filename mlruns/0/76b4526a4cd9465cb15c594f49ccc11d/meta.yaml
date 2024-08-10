@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/76b4526a4cd9465cb15c594f49ccc11d/artifacts
+end_time: 1723256578352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76b4526a4cd9465cb15c594f49ccc11d
+run_name: bedecked-boar-225
+run_uuid: 76b4526a4cd9465cb15c594f49ccc11d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723256419516
+status: 4
+tags: []
+user_id: ptiernan

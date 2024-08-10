@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2993de9b00e04651bc6fe6f9476f1922/artifacts
+end_time: 1723321887110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2993de9b00e04651bc6fe6f9476f1922
+run_name: amazing-wren-588
+run_uuid: 2993de9b00e04651bc6fe6f9476f1922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723321848797
+status: 3
+tags: []
+user_id: ptiernan
