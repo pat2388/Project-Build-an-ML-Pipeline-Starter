@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fac2f92180c448f3b3b01e73a4fbd721/artifacts
+end_time: 1723333669341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fac2f92180c448f3b3b01e73a4fbd721
+run_name: polite-lamb-922
+run_uuid: fac2f92180c448f3b3b01e73a4fbd721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723333545357
+status: 4
+tags: []
+user_id: ptiernan

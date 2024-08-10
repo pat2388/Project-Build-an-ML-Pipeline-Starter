@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2e2d46d171ea4156a5fb21696082024b/artifacts
+end_time: 1723333370851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e2d46d171ea4156a5fb21696082024b
+run_name: bold-mule-141
+run_uuid: 2e2d46d171ea4156a5fb21696082024b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723333362693
+status: 3
+tags: []
+user_id: ptiernan

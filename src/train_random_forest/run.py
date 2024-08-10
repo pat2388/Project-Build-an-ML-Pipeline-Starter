@@ -37,6 +37,16 @@ def delta_date_feature(dates):
 logging.basicConfig(level=logging.INFO, format="%(asctime)-15s %(message)s")
 logger = logging.getLogger()
 
+def check_for_null_values(X):
+    # Check for null values in the DataFrame
+    null_columns = X.columns[X.isnull().any()]
+    if null_columns.any():
+        for col in null_columns:
+            num_nulls = X[col].isnull().sum()
+            print(f"Column '{col}' has {num_nulls} missing values.")
+    else:
+        print("No missing values found in X_val.")
+
 def go(args):
 
     run = wandb.init(job_type="train_random_forest")

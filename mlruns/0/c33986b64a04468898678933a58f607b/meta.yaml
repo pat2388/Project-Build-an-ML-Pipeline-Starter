@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c33986b64a04468898678933a58f607b/artifacts
+end_time: 1723333851048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c33986b64a04468898678933a58f607b
+run_name: sassy-koi-166
+run_uuid: c33986b64a04468898678933a58f607b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723333842481
+status: 3
+tags: []
+user_id: ptiernan

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c0a1e89cd3e243d4bb894253f42f42ed/artifacts
+end_time: 1723333858842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0a1e89cd3e243d4bb894253f42f42ed
+run_name: rebellious-boar-836
+run_uuid: c0a1e89cd3e243d4bb894253f42f42ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723333851080
+status: 3
+tags: []
+user_id: ptiernan
