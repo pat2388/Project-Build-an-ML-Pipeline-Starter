@@ -1,5 +1,5 @@
 artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/73a7806c43b541abbcfb93cacea957a7/artifacts
-end_time: null
+end_time: 1723333942299
 entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1723333830475
-status: 1
+status: 4
 tags: []
 user_id: ptiernan

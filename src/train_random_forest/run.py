@@ -37,15 +37,20 @@ def delta_date_feature(dates):
 logging.basicConfig(level=logging.INFO, format="%(asctime)-15s %(message)s")
 logger = logging.getLogger()
 
-def check_for_null_values(X):
-    # Check for null values in the DataFrame
-    null_columns = X.columns[X.isnull().any()]
-    if null_columns.any():
-        for col in null_columns:
-            num_nulls = X[col].isnull().sum()
-            print(f"Column '{col}' has {num_nulls} missing values.")
-    else:
-        print("No missing values found in X_val.")
+def check_inconsistent_columns(df):
+    inconsistent_columns = {}
+    
+    for col in df.select_dtypes(include=['object']).columns:
+        unique_types = df[col].apply(type).unique()
+        
+        if len(unique_types) > 1:
+            inconsistent_columns[col] = unique_types
+            print(f"Column '{col}' has inconsistent types: {unique_types}")
+    
+    if not inconsistent_columns:
+        print("No inconsistent columns found.")
+    
+    return inconsistent_columns
 
 def go(args):
 
@@ -100,6 +105,8 @@ def go(args):
     X_val['name'].fillna("Unknown", inplace=True)
     X_val['last_review'].fillna("1970-01-01", inplace=True)
     X_val['reviews_per_month'].fillna(0, inplace=True)
+
+    check_inconsistent_columns(X_val)
     
     # Save model package in the MLFlow sklearn format
     if os.path.exists("random_forest_dir"):
