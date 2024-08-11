@@ -107,6 +107,9 @@ def go(args):
     X_val['reviews_per_month'].fillna(0, inplace=True)
     X_val['host_name'].fillna("Unknown").astype(str)
 
+    #convert all to string for host_name column
+    X_val['host_name'] = X_val['host_name'].astype(str)
+
     check_inconsistent_columns(X_val)
     
     # Save model package in the MLFlow sklearn format

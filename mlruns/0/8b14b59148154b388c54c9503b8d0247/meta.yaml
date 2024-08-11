@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8b14b59148154b388c54c9503b8d0247/artifacts
+end_time: 1723334675063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b14b59148154b388c54c9503b8d0247
+run_name: invincible-toad-439
+run_uuid: 8b14b59148154b388c54c9503b8d0247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723334663957
+status: 3
+tags: []
+user_id: ptiernan

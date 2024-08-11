@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/782d1ad6d25040e89ea261a9175f833c/artifacts
+end_time: 1723334655958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 782d1ad6d25040e89ea261a9175f833c
+run_name: bright-moth-134
+run_uuid: 782d1ad6d25040e89ea261a9175f833c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723334646821
+status: 3
+tags: []
+user_id: ptiernan

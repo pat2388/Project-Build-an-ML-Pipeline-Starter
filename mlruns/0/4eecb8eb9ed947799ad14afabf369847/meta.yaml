@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4eecb8eb9ed947799ad14afabf369847/artifacts
+end_time: 1723334663219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eecb8eb9ed947799ad14afabf369847
+run_name: grandiose-stoat-835
+run_uuid: 4eecb8eb9ed947799ad14afabf369847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723334655989
+status: 3
+tags: []
+user_id: ptiernan
