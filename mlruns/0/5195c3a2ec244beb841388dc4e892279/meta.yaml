@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5195c3a2ec244beb841388dc4e892279/artifacts
+end_time: 1723335058824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5195c3a2ec244beb841388dc4e892279
+run_name: delightful-squid-533
+run_uuid: 5195c3a2ec244beb841388dc4e892279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723335049577
+status: 3
+tags: []
+user_id: ptiernan

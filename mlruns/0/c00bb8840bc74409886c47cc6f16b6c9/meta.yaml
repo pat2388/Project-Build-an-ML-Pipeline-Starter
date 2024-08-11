@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c00bb8840bc74409886c47cc6f16b6c9/artifacts
+end_time: 1723335077281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c00bb8840bc74409886c47cc6f16b6c9
+run_name: salty-fish-257
+run_uuid: c00bb8840bc74409886c47cc6f16b6c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723335069825
+status: 3
+tags: []
+user_id: ptiernan

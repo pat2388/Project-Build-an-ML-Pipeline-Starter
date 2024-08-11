@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/deb78b43b8b44e5eb7d37e4f5fceb7a4/artifacts
+end_time: 1723335192100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deb78b43b8b44e5eb7d37e4f5fceb7a4
+run_name: entertaining-ant-847
+run_uuid: deb78b43b8b44e5eb7d37e4f5fceb7a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723335092225
+status: 3
+tags: []
+user_id: ptiernan
