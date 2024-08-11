@@ -105,6 +105,7 @@ def go(args):
     X_val['name'].fillna("Unknown", inplace=True)
     X_val['last_review'].fillna("1970-01-01", inplace=True)
     X_val['reviews_per_month'].fillna(0, inplace=True)
+    X_val['host_name'].fillna("Unknown").astype(str)
 
     check_inconsistent_columns(X_val)
     

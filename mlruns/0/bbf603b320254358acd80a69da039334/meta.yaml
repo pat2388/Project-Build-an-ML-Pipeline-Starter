@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bbf603b320254358acd80a69da039334/artifacts
+end_time: 1723334385685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbf603b320254358acd80a69da039334
+run_name: dapper-skunk-215
+run_uuid: bbf603b320254358acd80a69da039334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723334376542
+status: 3
+tags: []
+user_id: ptiernan

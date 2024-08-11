@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/ptiernan/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dc26ec631e944d358e64b2053884b695/artifacts
+end_time: 1723334405519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc26ec631e944d358e64b2053884b695
+run_name: rogue-wolf-950
+run_uuid: dc26ec631e944d358e64b2053884b695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723334394546
+status: 3
+tags: []
+user_id: ptiernan
